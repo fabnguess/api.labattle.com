@@ -21,7 +21,7 @@ Since the project is based on version 5 of the AdonisJS framework, you must need
 
 - [Node.js](https://nodejs.org/en/) v14 or higher
 - [Docker](https://www.docker.com/)
-- [Yarn](hhttps://www.yarnpkg.com)
+- [Yarn](https://yarnpkg.com/)
 
 ## Available services in docker
 
